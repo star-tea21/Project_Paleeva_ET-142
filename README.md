@@ -50,7 +50,7 @@
 
 **Изображения:** `zipfile`, `os`, `random`, `collections`, `matplotlib`, `numpy`, `tqdm`, `ipywidgets`, `IPython`, `csv`
 
-**Текстовые данные:**
+**Текстовые данные:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `re`, `nltk`, `scikit-learn`, `wordcloud`, `collections`, `scipy`, `joblib`, `os`
 
 
 

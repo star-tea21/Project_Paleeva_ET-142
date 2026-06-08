@@ -42,13 +42,13 @@
 
 ## Технологический стек
 
-**Язык:** Python *(актуальная версия Colab на момент выполнения — Python 3.12)*
+**Язык:** Python *(актуальная версия Colab на момент выполнения – Python 3.12)*
 
 **Табличные данные:** `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 **Временные ряды:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `scipy`
 
-**Изображения:**
+**Изображения:** `zipfile`, `os`, `random`, `collections`, `matplotlib`, `numpy`, `tqdm`, `ipywidgets`, `IPython`, `csv`
 
 **Текстовые данные:**
 
